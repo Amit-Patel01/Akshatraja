@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=Akshatraja&label=Profile%20views&color=blue&style=for-the-badge)
 <h1 align="center">Hi 👋, I'm Akshat Dave</h1>
 <h3 align="center">B.Tech IT Student | Cybersecurity Enthusiast</h3>
 
